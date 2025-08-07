@@ -58,7 +58,7 @@ const Navbar = ({ isMenuOpen, setIsMenuOpen, isLoggedIn, toggleLogin, toggleAdmi
             className="flex items-center space-x-2"
           >
             <FaBuilding className="text-amber-400 text-2xl" />
-            <span className="font-bold text-xl">EstatePro</span>
+            <span className="font-bold text-xl">ApnaNest</span>
           </motion.div>
           
           {/* Desktop Navigation */}
